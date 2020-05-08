@@ -1,3 +1,4 @@
 resolusi qarantine
 - membuat website
 -belajar data science
+- online shopping
